@@ -1,4 +1,0 @@
-<launch>
-  <node name="door_patrol_node" pkg="turtlebot3_gazebo" type="patrol_doors.py" output="screen"/>
-</launch>
-

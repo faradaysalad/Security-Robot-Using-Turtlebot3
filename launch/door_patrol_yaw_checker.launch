@@ -1,5 +1,0 @@
-<launch>
-  <node name="door_patrol_yaw_checker" pkg="turtlebot3_gazebo" type="door_patrol_yaw_checker.py" output="screen"/>
-</launch>
-
-
