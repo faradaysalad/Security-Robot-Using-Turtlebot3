@@ -31,9 +31,4 @@ Watch the full simulation on YouTube:
 
 ### 1. Clone the Repository
 ```bash
-cd ~/catkin_ws/src
 git clone https://github.com/faradaysalad/Security-Robot-Using-Turtlebot3.git
-cd ..
-catkin_make
-source devel/setup.bash
-
