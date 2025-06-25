@@ -36,11 +36,4 @@ git clone https://github.com/faradaysalad/Security-Robot-Using-Turtlebot3.git
 cd ..
 catkin_make
 source devel/setup.bash
-```bash
-
-### 2. Setup TurtleBot3 Environment
-```bash
-echo "export TURTLEBOT3_MODEL=waffle_pi" >> ~/.bashrc
-source ~/.bashrc
-```bash
 
