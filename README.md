@@ -1,10 +1,6 @@
 # Security-Robot-Using-Turtlebot3
 An autonomous security patrol robot simulation using TurtleBot3, ROS Noetic, and Gazebo. The robot performs automated patrols and detects door status (open/closed) using yaw orientation in a simulated office environment.
 
-# 🛡️ Security Robot Using TurtleBot3
-
-This project simulates an autonomous security patrol robot using **TurtleBot3 Waffle Pi**, **ROS Noetic**, and **Gazebo** in Ubuntu 20.04. The robot patrols a simulated office environment, detects the status of doors (open/closed) based on **yaw orientation**, and logs outputs that can indicate possible intrusions.
-
 ---
 
 ## 📽️ Demo Video
@@ -40,9 +36,11 @@ git clone https://github.com/faradaysalad/Security-Robot-Using-Turtlebot3.git
 cd ..
 catkin_make
 source devel/setup.bash
+```bash
 
 ### 2. Setup TurtleBot3 Environment
 ```bash
 echo "export TURTLEBOT3_MODEL=waffle_pi" >> ~/.bashrc
 source ~/.bashrc
+```bash
 
