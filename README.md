@@ -16,7 +16,7 @@ Watch the full simulation on YouTube:
 - 📍 Integrated with **SLAM** and **navigation stack** (`move_base`, RViz).
 - 🧪 Fully tested in simulation (no physical hardware required).
 
-- ## 🧰 Requirements
+## 🧰 Requirements
 
 - Ubuntu 20.04
 - ROS Noetic
